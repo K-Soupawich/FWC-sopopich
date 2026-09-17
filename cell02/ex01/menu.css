@@ -1,0 +1,20 @@
+body {
+    background-color: #feffe7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#menu {
+    width: 35%;
+    padding: 5px;
+    font-size: 20px;
+}
+
+#menu option {
+  background-color: #f0f0f0;
+  color: #333;
+  padding: 10px;
+  cursor: pointer;
+}
